@@ -12,7 +12,7 @@ async def verupikkals(bot, message):
     users = await db.get_all_users()
     b_msg = message.reply_to_message
     sts = await message.reply_text(
-        text='ഇപ്പൊ എല്ലാവരെയും അറിയിച്ചേക്കാം...😁...'
+        text='Broadcasting Your Messages...'
     )
     start_time = time.time()
     total_users = await db.total_users_count()
@@ -39,3 +39,4 @@ async def verupikkals(bot, message):
             await sts.edit(f"Broadcast in progress:\n\nTotal Users {total_users}\nCompleted: {done} / {total_users}\nSuccess: {success}\nBlocked: {blocked}\nDeleted: {deleted}")    
     time_taken = datetime.timedelta(seconds=int(time.time()-start_time))
     await sts.edit(f"Broadcast Completed:\nCompleted in {time_taken} seconds.\n\nTotal Users {total_users}\nCompleted: {done} / {total_users}\nSuccess: {success}\nBlocked: {blocked}\nDeleted: {deleted}")
+#TechnoMindz
