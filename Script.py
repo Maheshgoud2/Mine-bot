@@ -22,16 +22,20 @@ class script(object):
 <b>DEVS:</b>
 - <a href=https://t.me/Alexa_updates_official>Updates-channel</a>"""
 """ ━━━━━━━━━━━━᚜ <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a> ᚛━━━━━━━━━━━━""" 
-    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../ 
+    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
+
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 ➪ /plink ›› <b>𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝙼𝙴𝙳𝙸𝙰 𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝙽𝙺.</b>
 ➪ /pbatch ›› <b>𝚄𝚂𝙴 𝚈𝙾𝚄𝚁 𝙼𝙴𝙳𝙸𝙰 𝙻𝙸𝙽𝙺 𝚆𝙸𝚃𝙷 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
 ➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
+
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 <code>/batch https://t.me/TMMAINCHANNEL/10 https://t.me/tmmainchannel/15</code>
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/technomindzchat><b>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
+
 Note:- Give a user details
 •/whois :-give a user full details"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
@@ -62,18 +66,22 @@ Note:- Give a user details
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     SONG_TXT = """<b>𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+
 <b>𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴, 𝙵𝙾𝚁 𝚃𝙷𝙾𝚂𝙴 𝚆𝙷𝙾 𝙻𝙾𝚅𝙴 𝙼𝚄𝚂𝙸𝙲. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝙴 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚂𝙾𝙽𝙶 𝚆𝙸𝚃𝙷 𝚂𝚄𝙿𝙴𝚁 𝙵𝙰𝚂𝚃 𝚂𝙿𝙴𝙴𝙳.𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿𝚂../</b>
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
+
 ››  /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/technomindzchat>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
+
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 <b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
 <b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
 ◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
 ◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
     PASTE_TXT = """Help: <b>Paste</b>
+
 Paste some texts or documents on a website!
 <b>Commands and Usage:</b>
 • /paste [text] - paste the given text on Pasty
@@ -81,6 +89,7 @@ Paste some texts or documents on a website!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
     TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+
 Translate text to speech
 <b>Commands and Usage:</b>
 • /tts <text> : convert text to speech
@@ -89,6 +98,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
+
 Helps you to know your ping 🚶🏼‍♂️
 <b>Commands:</b>
 • /alive - To check you are alive.
@@ -96,14 +106,17 @@ Helps you to know your ping 🚶🏼‍♂️
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
+
 <b>🏹Usage🏹 :</b>
 • This commands can be used in pms and groups
 • This commands can be used buy everyone in the groups and bots pm
 • Share us for more features"""
     TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+
 Do as you wish with telegra.ph module!
 </b>USAGE:</b>
 🤧 /telegraph - Send me Picture or Video Under (5MB)
+
 <b>NOTE:</b>
 • This Command Is Available in goups and pm
 • This Command Can be used by everyone"""
@@ -115,10 +128,12 @@ Do as you wish with telegra.ph module!
 <b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a>"""
 
     JSON_TXT ="""<b>JSON:</b>
+
 Bot returns json for all replied messages with /json
 <b>Features:</b>
 Message Editting JSON
 Pm Support
+
 Group Support
 <b>Note:</b>
 Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
@@ -129,16 +144,19 @@ Deletes A Lot Of Messages From Groups!
  <b>ADMIN</b> 
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
+
 -𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙  Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 2. 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
+
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/tmmainchannel)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙾𝙽/𝙾𝙵𝙵 𝙼𝙾𝙳𝚄𝙻𝙴..</b>
+
 <b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙽𝙳 𝚂𝙰𝚅𝙴  𝚃𝙷𝙴 𝙵𝙸𝙻𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
 <b>›› /autofilter on - 𝙴𝙽𝙰𝙱𝙻𝙴 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
@@ -147,6 +165,7 @@ Deletes A Lot Of Messages From Groups!
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/tmmainchannel>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</a></b>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
+
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
 <b>NOTE:</b>
@@ -157,6 +176,7 @@ Deletes A Lot Of Messages From Groups!
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+
 <b>NOTE:</b>
 these are the extra features of ᗩᒍᗩ᙭ 
 <b>Commands and Usage:</b>
@@ -165,6 +185,7 @@ these are the extra features of ᗩᒍᗩ᙭
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
+
 <b>NOTE:</b>
 This module only works for my admins
 <b>Commands and Usage:</b>
